@@ -1,4 +1,4 @@
-const contentLetterSrart_actived ="Happy birthday" //Lời mở đầu cho bức thư
+const contentLetterSrart_actived ="Happy birthday Hoàng Linh" //Lời mở đầu cho bức thư
 const mainContentLetter = "Mình chúc bạn tuổi mới vạn điều như ý và trong các cuộc thi sắp tới đạt được thành quả như mong đợi
 " //Nội dung của bức thư
 
