@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "Hãy nói gì đó ở đây trước khi người ấy mở bức thư nhé." //Lời mở đầu cho bức thư
+const contentLetterSrart_actived ="Tiến ăn cứt" //Lời mở đầu cho bức thư
 const mainContentLetter = "Gửi lời nhắn nhủ đến người bạn bạn yêu thương." //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
